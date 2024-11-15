@@ -1,0 +1,54 @@
+{
+    "progress": [
+        {
+            "date": "Jan 5",
+            "mile": 75.5,
+            "image": "https://i.imgur.com/Hb674cK.jpeg",
+            "aspect": "portrait",
+            "today" : "Today's walk was brutal. I had to walk 10 miles to get to the next town. I'm exhausted but I'm proud of myself for pushing through. I'm going to rest up and get back on the road tomorrow.",
+            "near": "Near this location something interesting happened",
+            "cool": "I saw a bear today!",
+            "text": "Created the project and added the first component"
+        },
+        {
+            "date": "Jan 4",
+            "mile": 35.5,
+            "image": "https://i.imgur.com/Hb674cK.jpeg",
+            "aspect": "portrait",
+            "today" : "Today was a good day. I walked 5 miles and found a nice spot to set up camp. I'm going to rest up and get back on the road tomorrow.",
+            "near": "Near this location something interesting happened",
+            "cool":"I saw a bear today!",
+            "text": "Created the project and added the first component"
+        },
+        {
+            "date": "Jan 1",
+            "mile": 10.5,
+            "image": "https://i.imgur.com/Hb674cK.jpeg",
+            "aspect": "portrait",
+            "today" : "Today was a good day. I walked 5 miles and found a nice spot to set up camp. I'm going to rest up and get back on the road tomorrow.",
+            "near": "Near this location something interesting happened",
+            "cool":"I saw a bear today!",
+            "text": "Created the project and added the first component"
+        },
+        {
+            "date": "Jan 2",
+            "mile": 22.5,
+            "image": "https://i.imgur.com/Hb674cK.jpeg",
+            "aspect": "portrait",
+            "today" : "Today was a good day. I walked 5 miles and found a nice spot to set up camp. I'm going to rest up and get back on the road tomorrow.",
+            "near": "Near this location something interesting happened",
+            "cool":"I saw a bear today!",
+            "text": "Created the project and added the first component"
+        },
+        {
+            "date": "Jan 3",
+            "mile": 30.5,
+            "image": "https://i.imgur.com/SXlv4Dn.jpeg",
+            "aspect": "landscape",
+            "today" : "Today was a good day. I walked 5 miles and found a nice spot to set up camp. I'm going to rest up and get back on the road tomorrow.",
+            "near": "Near this location something interesting happened",
+            "cool":"I saw a bear today!",
+            "text": "Each player on the winning team earns a ca"
+        }
+    ]
+}
