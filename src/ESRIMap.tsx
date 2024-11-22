@@ -239,7 +239,7 @@ const ESRIMap: React.FC = () => {
           <div style="">
           <img src="${
             data.image
-          }" alt="Random Image" style="margin-right:10px; ${
+          }" alt="Image of the Day" style="margin-right:10px; ${
               data.aspect === "landscape"
                 ? "width: 356px; height: 200px;"
                 : "width: 200px; height: 356px;"
@@ -249,9 +249,14 @@ const ESRIMap: React.FC = () => {
 
           <p style="font-size:8px;">LAT/LONG <b>${ll[1].toFixed(
             3
-          )}, ${ll[0].toFixed(3)} </b></p><p>${data.text}
+          )}, ${ll[0].toFixed(3)} </b>
+          
+          </p>
+          <p>${data.today}
            </p>
-           <p><b>Click the image for a larger view.</b></p>
+           <p><b>Near Here:</b> ${data.near}</p>
+           <p><b>Thought of the Day:</b> ${data.cool}</p>
+           <p><b>TIPS:</b></p>
           <div>
           `,
           });
